@@ -1,5 +1,14 @@
-public class Example1 {
+public class ClassExample {
     public static void main(String[] args) {
+
+        /*
+         Example 1: Create a triangle of *
+         *
+         **
+         ***
+         ****
+         *****
+        */
 
         //outer loop
         for (int i = 1; i <= 5; i++) { //loops for 5 lines
